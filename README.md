@@ -1,3 +1,6 @@
+
+![jó1_processed](https://github.com/user-attachments/assets/01e44191-6c53-4f14-b18b-0f7c5c2f8810)
+
 # Programando a Jogada: IA Passo a Passo para Vencer
 
 Projeto EBOOK Gerado por I.A.s
