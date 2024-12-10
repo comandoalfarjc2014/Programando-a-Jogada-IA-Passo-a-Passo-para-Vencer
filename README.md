@@ -46,4 +46,4 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 👨‍💻 Expert
 
    Renato JC
-   www.linkedin.com/in/renatojc
+   www.linkedin.com/in/renatojc2014comando
